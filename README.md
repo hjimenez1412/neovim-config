@@ -7,7 +7,7 @@ Install Neovim first and then use this repository
 
 ## Installation
 
-First backup and previous configuration
+First backup any previous configuration
 ```sh
 mv ~/.config/nvim ~/.config/nvim.old_backup 2>/dev/null
 ```
